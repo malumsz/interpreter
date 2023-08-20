@@ -1,0 +1,3 @@
+read $x
+$w = 6 + 18 / 3 
+write $w
